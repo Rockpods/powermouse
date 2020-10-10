@@ -2,7 +2,7 @@
 Powerful http(s) web proxy compatible with a variety of websites, and flagship TitaniumNetwork proxy
 #### Maintained by <b><i>removed for now</i></b> on Discord
 
-<a href="https://heroku.com/deploy?template=https://github.com/vibedivide/powermouse/tree/master" title="Deploy to Heroku"><img alt="Deploy to Heroku" src="https://sys32.dev/assets/src/media/heroku.svg" width="140" height="30"><img></a>
+<a href="https://heroku.com/deploy?template=https://github.com/rockpods/powermouse/tree/master" title="Deploy to Heroku"><img alt="Deploy to Heroku" src="https://sys32.dev/assets/src/media/heroku.svg" width="140" height="30"><img></a>
 &nbsp;
 <a href="https://azuredeploy.net/" title="Deploy to Azure"><img alt="Deploy to Azure" src="https://sys32.dev/assets/src/media/azure.svg" width="140" height="30"><img></a>
 &nbsp;
